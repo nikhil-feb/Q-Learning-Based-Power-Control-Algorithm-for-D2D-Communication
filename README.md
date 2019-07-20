@@ -5,7 +5,8 @@ D2D communication aims at establishing a direct communication link between the u
 
 D2D communications can be in-band and out-band. Furthermore, it can be underlay and overlay in in-band whereas controlled and autonomous in out-band.
 
-**Need of power control**
+**Need of power control :**
+
 In in-band underlay D2D communication networks, D2D devices use the frequency band being used by the cellular devices without any pre-allocation.
 
 Consider a system where we have some D2D users and cellular users co-existing in the same cell and employing same frequency band.
@@ -18,7 +19,8 @@ For the users sharing same resource blocks, D2D users will suffer from the inter
 
   This in-turn imposes a constraint on the power levels of the D2D users.
   
-**Problem statement**
+**Problem statement :**
+
 We need to determine the optimum power of the D2D users,  sharing the same resource blocks with the cellular users, such that the QoS constraint of cellular users can be met successfully.
 
 
